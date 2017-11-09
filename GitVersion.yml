@@ -1,9 +1,0 @@
-assembly-versioning-scheme: MajorMinorPatch
-mode: ContinuousDeployment
-branches:
-  develop:
-    mode: ContinuousDeployment
-  master:
-    mode: ContinuousDeployment
-ignore:
-  sha: []
