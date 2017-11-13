@@ -3,7 +3,10 @@ Bank-ID
 
 Bundle for connect [Bank-ID library](https://github.com/dimafe6/bank-id) to your Symfony application.
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
+[![Latest Stable Version](https://poser.pugx.org/dimafe6/bank-id-bundle/v/stable)](https://packagist.org/packages/dimafe6/bank-id-bundle)
+[![Latest Unstable Version](https://poser.pugx.org/dimafe6/bank-id-bundle/v/unstable)](https://packagist.org/packages/dimafe6/bank-id-bundle)
+[![Total Downloads](https://poser.pugx.org/dimafe6/bank-id-bundle/downloads)](https://packagist.org/packages/dimafe6/bank-id-bundle)
+[![License](https://poser.pugx.org/dimafe6/bank-id-bundle/license)](https://packagist.org/packages/dimafe6/bank-id-bundle)
 
 Requirements
 ============
