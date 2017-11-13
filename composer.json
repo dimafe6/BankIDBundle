@@ -2,6 +2,7 @@
     "name": "dimafe6/bank-id-bundle",
     "type": "symfony-bundle",
     "description": "Symfony bundle for Swedish BankID library",
+    "version": "1.0.0",
     "keywords": [
         "dimafe6",
         "bank-id-bundle",
@@ -19,7 +20,8 @@
     ],
     "require": {
         "php" : ">=5.6.0",
-        "symfony/framework-bundle": "^2.7|^3.0"
+        "symfony/framework-bundle": "^2.7|^3.0",
+        "dimafe6/bank-id": "1.0.*"
     },
     "require-dev": {
         "phpunit/phpunit" : "5.7.* || 6.3.*"
@@ -29,12 +31,12 @@
             "Dimafe6\\BankIDBundle\\": ""
         },
         "exclude-from-classmap": [
-            "/tests/"
+            "/Tests/"
         ]
     },
     "autoload-dev": {
         "psr-4": {
-            "BankIDBundle\\Test\\": "tests"
+            "BankIDBundle\\Test\\": "Tests"
         }
     },
     "extra": {
