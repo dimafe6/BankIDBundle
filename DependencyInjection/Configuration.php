@@ -51,6 +51,7 @@ class Configuration implements ConfigurationInterface
                     ->end()
                 ->end()
                 ->arrayNode('soap_options')
+                    ->addDefaultsIfNotSet()
                     ->children()
                         ->scalarNode('soap_version')
                             ->defaultValue('1.2')

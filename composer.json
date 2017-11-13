@@ -2,7 +2,7 @@
     "name": "dimafe6/bank-id-bundle",
     "type": "symfony-bundle",
     "description": "Symfony bundle for Swedish BankID library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": [
         "dimafe6",
         "bank-id-bundle",
