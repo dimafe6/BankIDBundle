@@ -4,7 +4,7 @@ Bank-ID
 Bundle for connect [Bank-ID library](https://github.com/dimafe6/bank-id) to your Symfony application.
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
-[![Build Status](https://travis-ci.org/dimafe6/BankIDBundle.svg?branch=dev)](https://travis-ci.org/dimafe6/BankIDBundle)
+
 ## Requirements
 
 * PHP 5.6+ or 7.0+
